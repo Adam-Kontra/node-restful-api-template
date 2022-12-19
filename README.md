@@ -55,7 +55,7 @@ To run docker container execute:
   ```
 
   ```bash
-  $ npx
+  $ npx nodemon
   ```
   
   &nbsp;
